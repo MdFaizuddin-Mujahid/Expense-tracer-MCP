@@ -1,0 +1,104 @@
+{
+  "Food": [
+    "Groceries",
+    "Fruits",
+    "Vegetables",
+    "Dairy",
+    "Meat & Seafood",
+    "Snacks",
+    "Beverages",
+    "Restaurant",
+    "Food Delivery",
+    "Street Food",
+    "Bakery"
+  ],
+  "Transport": [
+    "Fuel",
+    "Public Transit",
+    "Cab / Ride Share",
+    "Parking",
+    "Vehicle Maintenance",
+    "Vehicle Insurance",
+    "Tolls"
+  ],
+  "Housing": [
+    "Rent",
+    "Mortgage",
+    "Electricity",
+    "Water",
+    "Gas",
+    "Internet",
+    "Maintenance",
+    "Furniture",
+    "Home Repairs"
+  ],
+  "Health": [
+    "Doctor Visits",
+    "Medicines",
+    "Health Insurance",
+    "Gym / Fitness",
+    "Dental",
+    "Lab Tests",
+    "Wellness"
+  ],
+  "Shopping": [
+    "Clothing",
+    "Footwear",
+    "Electronics",
+    "Accessories",
+    "Home Decor",
+    "Personal Care",
+    "Gifts"
+  ],
+  "Entertainment": [
+    "Movies",
+    "Streaming Subscriptions",
+    "Games",
+    "Events / Concerts",
+    "Hobbies",
+    "Books",
+    "Music"
+  ],
+  "Education": [
+    "Tuition Fees",
+    "Books & Supplies",
+    "Online Courses",
+    "Coaching",
+    "Certifications"
+  ],
+  "Travel": [
+    "Flights",
+    "Hotels",
+    "Local Transport",
+    "Sightseeing",
+    "Travel Insurance",
+    "Visa Fees"
+  ],
+  "Bills & Utilities": [
+    "Mobile Recharge",
+    "Broadband",
+    "Subscriptions",
+    "Credit Card Payment",
+    "Loan EMI"
+  ],
+  "Investments": [
+    "Stocks",
+    "Mutual Funds",
+    "Fixed Deposit",
+    "Crypto",
+    "Retirement Fund"
+  ],
+  "Family & Personal": [
+    "Childcare",
+    "Pet Care",
+    "Elder Care",
+    "Personal Development",
+    "Donations"
+  ],
+  "Miscellaneous": [
+    "ATM Withdrawal",
+    "Bank Fees",
+    "Taxes",
+    "Other"
+  ]
+}
